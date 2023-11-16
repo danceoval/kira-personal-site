@@ -1,0 +1,41 @@
+
+#header {
+    background-color: #7651f0;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+#nav {
+    color: #7651f0;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #d9d9d9;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#profile-photo {
+    width: 400px;
+    border: 1px solid cyan;
+}
+
+section {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #383a42;
+}
